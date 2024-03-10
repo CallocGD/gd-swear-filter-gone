@@ -1,4 +1,4 @@
-# gd-sfm
+# gd-sfg
 
-SFM or Swear Filter Mod Provides Tools that can Modify Robtop's Swear Filter on Geometry Dash
-NOTE: I am not responsible for any damage caused by this tool
+SFM or Swear Filter Gone Removes Robtop's Swear Filter on Geometry Dash
+for faster performance, NOTE: I am not responsible for any damage caused by this tool
